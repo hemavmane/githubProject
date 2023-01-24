@@ -1,0 +1,85 @@
+.search{
+  display: flex;
+  margin: 20px;
+}
+
+.picture{
+  border: 10px solid black;
+  width: 80px;
+  height: 60px;
+  text-align: center;
+padding-top: 20px;
+margin-left: 600px;
+}
+.prompt{
+  width: 180px;
+  border-radius: 20px;
+  padding: 0.6rem;
+}
+.fa-solid{
+  position: absolute;
+  left: 15%;
+  top:31%;
+  font-size: 20px;
+}
+.primary{
+  border: none;
+  background-color: rgb(48, 97, 233);
+  color:white;
+  width: 80px;
+  text-align: center;
+  border-radius: 10px;
+}
+table,tr,th,td{
+  border: 1px solid rgb(214, 236, 214);
+  border-collapse: collapse;
+  padding: 1rem;
+}
+.celled{
+  width: 100%;
+  
+}
+
+.circular{
+  border-radius: 100px;
+  height: 200px;
+  height: 200px;
+}
+
+.prophile_container1{
+ 
+  text-align: center;
+}
+
+.fa-brands{
+  margin-right:3px ;
+}
+.header{
+  text-decoration: none;
+}
+
+.left{
+  margin-right: 90px;
+}
+.content{
+  padding:0.5rem;
+  display: flex;
+} 
+.table{
+  background-color: rgb(157, 175, 174);
+  color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
